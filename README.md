@@ -7,8 +7,11 @@ LosePrivacy免费社工库APP源码与APK
 ## LosePrivacy
 LosePrivacy收录了近10多年全球著名的数据泄露事件及数据，方便用户真实掌握：我们哪些隐私信息被泄露了、隐私信息被谁泄露了。注册用户即可免费搜索信息。
 
-## APP下载地址
-https://loseprivacy.xyz/app
+## 手机APP下载地址
+精简版：https://loseprivacy.xyz/app
 
-## 源码
-待整理上传。
+## 命令行查询工具源码
+使用命令行查询工具快速查询数据泄露信息，可集成到桌面设备、服务器中。源码与查询工具：[loseprivacy-cli](https://github.com/loseprivacy/loseprivacy-cli)。
+
+## 查询API
+[LosePrivacy-API](https://loseprivacy.github.io)
